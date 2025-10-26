@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank666666" alt="shashank666666" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sha-portfolio.tiiny.site/](https://shashank-portfolio.tiiny.site/)
+- 👨‍💻 All of my projects are available at [https://shashank666666.github.io/portfolio.github.io/#home)
 
 - 💬 Ask me about **HTML,CSS,JS,Py,React**
 
