@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shashank A</h1>
-<h3 align="center">Hello! I'm a passionate web developer with 2+ years of experience creating modern, responsive websites and applications. I specialize in front-end development and love bringing designs to life with clean, efficient code. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or upskilling myself.</h3>
+<h3 align="center">Hello! I'm a passionate web developer with 3+ years of experience creating modern, responsive websites and applications. I specialize in front-end development and love bringing designs to life with clean, efficient code. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or upskilling myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank666666&label=Profile%20views&color=0e75b6&style=flat" alt="shashank666666" /> </p>
 
